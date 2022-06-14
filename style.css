@@ -110,6 +110,7 @@ section{
     align-items: center;
 }
 
+
 .content-wrapper{
     width: 100%;
     display: flex;
@@ -138,6 +139,10 @@ section{
     color: rgb(172, 171, 171);
     margin-right: 1.5rem;
     cursor: pointer;
+}
+
+.search-bar i:hover{
+    color: rgb(119, 119, 119);
 }
 
 .search-bar input{
